@@ -1,0 +1,38 @@
+.blog-item-details-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10%;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.avatar-url {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.blog-item-image-url {
+  width: 80%;
+
+  border-radius: 10px;
+}
+.blog-item-details-title {
+  text-align: center;
+  color: #2f4f4f;
+}
+
+.blog-item-avatar-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+}
+.content {
+  color: #2f4f4f;
+  font-size: 16px;
+  font-weight: 500;
+  max-width: 80%;
+}
